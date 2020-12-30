@@ -1,8 +1,8 @@
 ### Welcome and thank you for visiting my page. 👋
 
 
-I didn't major in computer science and Most of my twenties, i had sailed around the world as a navigator.</br>
-I'm currently studyiny javascript. 
+I didn't major in computer science and Most of my twenties, i had sailed around the world as a navigator. 🛳</br>
+I have been studying computer science and programming language, especially javascript after quit the shipping company. </br>
 
 <!--
 **KBEUM/KBEUM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
